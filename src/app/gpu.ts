@@ -1,0 +1,7 @@
+export class Gpu{
+    constructor(
+        public id: number,
+        public name: string,
+        public price: number
+    ){}
+}
